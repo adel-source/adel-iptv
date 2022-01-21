@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,## AFRICA CUP 2021 ##
+#EXTINF:-1,==== AFRICA CUP 2021 ====
 http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/301766
 #EXTINF:-1,|AR-HD| BEIN SPORTS MAX 1
 http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300138
@@ -48,7 +48,8 @@ http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/300129
 #EXTINF:-1,|AR-HEVC| BEIN SPORTS 1 [MAX HIGH QUALITY]
 http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/306711
 #EXTINF:-1,|AR-HEVC| BEIN SPORTS 2 [MAX HIGH QUALITY]
-#EXTINF:-1,## |ar-HD| BEIN SPORTS ##
+#EXTINF:-1,===== BEIN SPORTS =====
+http://ip771.tk:80/nxlQHFxbY92y4j3/hEWa0KjQC9/301766
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4930
 #EXTINF:-1,|ar-HD| BEIN SPORT HD
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4929
@@ -88,7 +89,7 @@ http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4913
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4912
 #EXTINF:-1,|ar-HD| BEIN SPORTS 1 FRENCH HD
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/4911
-#EXTINF:-1,## BEIN SPORT HD ##
+#EXTINF:-1,===== BEIN SPORT HD =====
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11411
 #EXTINF:-1,|AR-HD| PPV 1 |JUVENTUS VS SAMPDORIA|
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/250232
@@ -200,7 +201,7 @@ http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/300117
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139091
 #EXTINF:-1,|AR| BEIN SPORTS XTRA 2 UHD
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/139090
-#EXTINF:-1,## BEIN SPORT 4K ##
+#EXTINF:-1,===== BEIN SPORT 4K =====
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/66044
 #EXTINF:-1,|AR| BEIN 4K
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/304810
@@ -300,7 +301,7 @@ http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12559
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12557
 #EXTINF:-1,|FR-4K| RMC SPORT 2
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/12556
-#EXTINF:-1,## |OSN| HD ##
+#EXTINF:-1,===== |OSN| HD =====
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11373
 #EXTINF:-1,|OSN| E! HD
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11372
@@ -376,7 +377,7 @@ http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11331
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11330
 #EXTINF:-1,|OSN| TLC HD
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/65608
-#EXTINF:-1,## |BEIN| MOVIES ##
+#EXTINF:-1,===== |BEIN| MOVIES =====
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11452
 #EXTINF:-1,|AR| BEIN MOVIES 1 HD
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11451
@@ -420,7 +421,7 @@ http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11435
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11434
 #EXTINF:-1,|AR| BEIN NAT GEO WILD
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11432
-#EXTINF:-1,## |AR| MBC GROUP ##
+#EXTINF:-1,===== |AR| MBC GROUP =====
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11469
 #EXTINF:-1,|AR-4K| MBC 1
 http://ip771.tk:80/FSCAtnSg1vrqlR3/SUStOlesnz/11843
