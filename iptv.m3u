@@ -1,1 +1,8 @@
 
+#EXTM3U
+#EXTINF:-1,Adel 1
+https://streamweu-livectorprodmedia17-euwe.licdn.com/4e04b393-f448-41d8-ba12-07a3d99e29f4/L4E62c41c9134067000-livemanifest.ism/QualityLevels(3200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und,filter=L4E62c41c9134067000-trimming_filter_4e04b393-f448-41d8-ba12-07a3d99e29f4)
+#EXTINF:-1,Adel 2
+https://livectorprodmedia17-euwe.licdn.com/2c7f506e-a232-4400-8973-bf33082a34fc/L4E62c415ad8a86d000-livemanifest.ism/QualityLevels(3200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
+#EXTINF:-1,Adel 3
+https://streamweu-livectorprodmedia17-euwe.licdn.com/145877e3-4964-412c-b8a9-caf00de17918/L4E62c401cfefc65000-livemanifest.ism/QualityLevels(3200000)/Manifest(video,format=m3u8-aapl-v3,audiotrack=audio_und)
